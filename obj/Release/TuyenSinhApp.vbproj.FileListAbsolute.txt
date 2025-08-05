@@ -1,0 +1,12 @@
+D:\TuyenSinhApp\TuyenSinhApp\bin\Release\TuyenSinhApp.exe.config
+D:\TuyenSinhApp\TuyenSinhApp\bin\Release\TuyenSinhApp.exe
+D:\TuyenSinhApp\TuyenSinhApp\bin\Release\TuyenSinhApp.pdb
+D:\TuyenSinhApp\TuyenSinhApp\bin\Release\TuyenSinhApp.xml
+D:\TuyenSinhApp\TuyenSinhApp\obj\Release\TuyenSinhApp.frmKetQua.resources
+D:\TuyenSinhApp\TuyenSinhApp\obj\Release\TuyenSinhApp.frmTimKiem.resources
+D:\TuyenSinhApp\TuyenSinhApp\obj\Release\TuyenSinhApp.Resources.resources
+D:\TuyenSinhApp\TuyenSinhApp\obj\Release\TuyenSinhApp.vbproj.GenerateResource.cache
+D:\TuyenSinhApp\TuyenSinhApp\obj\Release\TuyenSinhApp.vbproj.CoreCompileInputs.cache
+D:\TuyenSinhApp\TuyenSinhApp\obj\Release\TuyenSinhApp.exe
+D:\TuyenSinhApp\TuyenSinhApp\obj\Release\TuyenSinhApp.xml
+D:\TuyenSinhApp\TuyenSinhApp\obj\Release\TuyenSinhApp.pdb
